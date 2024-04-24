@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-image: url(fundoHeader.jpg);
+    font-family: fantasy;
+    font-size: 15px;
+    background-color: dimgrey;
+    text-align: center;
+    padding: 27px 0;
+    
+    opacity: 70%;
+}
+
+header h1{
+
+    margin-bottom: -19px;
+}
+
+.caixaPrincipal{
+    display: flex;
+}
+
+.caixaMenu{
+    width: 20%;
+    background-color:black;
+    padding: 30px;
+    height: 500px;
+}
+
+.caixaArtigo{
+    
+    width: 80%;
+    background-color: lightgray;
+    padding: 34px;
+}
+ 
+.rodape{
+    text-align: center;
+    background-color: dimgrey;
+    padding: 25px;
+}
+
+img{
+    width: 60%;
+    margin-top: 10px;
+}
+
+h1{
+    margin-bottom: 20px;
+}
+
+li{
+    
+    
+    padding: 10px;
+    margin: 20px 5px;
+    width: 92px;
+    border-radius: 40px;
+}
+
+li a{
+    width: 117px;
+    display: block;
+    color: aliceblue;
+    font-size: 17px;
+}
+
+ p{
+    color: black;
+}
+
+.botaoTotal{
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+article h2 {
+
+    font-size: 15px;
+    color: black;
+}
+
+
